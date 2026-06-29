@@ -18,3 +18,5 @@ flowchart TD
     D --> D2[Selectivity - Filtering Power]
     D --> D3[Query Patterns - WHERE, JOIN, ORDER BY]
     D --> D4[Composite Indexes]
+
+[Clustered vs Non-Clustered](https://app.notion.com/p/Clustered-Non-Clustered-38ea04c1c6bd8075ba1ceb4583d9a7cd?source=copy_link)
