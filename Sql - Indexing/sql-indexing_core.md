@@ -1,5 +1,6 @@
+Necessary Topics : 
 
-[Clustered vs Non-Clustered](https://app.notion.com/p/Clustered-Non-Clustered-38ea04c1c6bd8075ba1ceb4583d9a7cd?source=copy_link) -->
+1. [Clustered vs Non-Clustered](https://app.notion.com/p/Clustered-Non-Clustered-38ea04c1c6bd8075ba1ceb4583d9a7cd?source=copy_link) 
 
 
 # SQL Indexing Diagram
